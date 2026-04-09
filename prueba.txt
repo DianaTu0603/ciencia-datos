@@ -1,0 +1,5 @@
+# Opción 1: Usando un bucle
+suma = 0
+for numero in range(2, 11, 2):
+    suma += numero
+print(suma)  # Resultado: 30
